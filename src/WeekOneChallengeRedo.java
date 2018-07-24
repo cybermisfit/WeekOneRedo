@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 
 public class WeekOneChallengeRedo {
     public static void main(String[] args){
@@ -82,7 +83,7 @@ public class WeekOneChallengeRedo {
 
         printout("Total Purchase Amount: $" + formatPurchaseTotal);
 
-        //BONUS - BONUS RANDOM IN "WEEKONEREDORANDOM"
+        //BONUS - BONUS RANDOM IN "WeekOneRedoRandom"
 
         if (purchaseAmount > 20){
             printout("You spent too much today...");
